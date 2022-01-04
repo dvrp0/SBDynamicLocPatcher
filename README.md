@@ -53,7 +53,7 @@ Window version of Stormbound caches localization file on `AppData/LocalLow` fold
  - Many mistranslations
 
 ## Miscellaneous
-Patched localization files are all made by me. Since I'm not an English-speaking person, there might be awkward expressions. If you find such things, please leave [an issue.](https://github.com/dvrp0/SBDynamicLocPatcher/issues) Contributions are highly appreciated 😀
+Patched localization files are all made by me. Since I'm not an English-speaking person, there might be awkward expressions. If you find such things, please leave [an issue.](https://github.com/dvrp0/SBLocPatcher/issues) Contributions are highly appreciated 😀
 
 [![English file](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/14IcG_UKWgDxoHYFNfxxE0kAHanikdNVz/view?usp=sharing)
 
