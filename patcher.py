@@ -1,4 +1,4 @@
-import gdown, os, shutil
+import os, shutil, wget
 
 class Patcher:
     def __init__(self):
@@ -8,13 +8,17 @@ class Patcher:
         self.drive_paths = {"english": "https://drive.google.com/uc?id=14IcG_UKWgDxoHYFNfxxE0kAHanikdNVz&export=download",
                             "korean": "https://drive.google.com/uc?id=1NKzHi1hvmnXkX1oyucEroDU3G5eaqQMK&export=download"}
         self.localization_path = os.path.join(path[:-7], "LocalLow", "Paladin Studios", "Stormbound", "localization")
+        self.download_url = "http://raw.githubusercontent.com/dvrp0/SBLocPatcher/main/localizations/"
         
     def download(self, language):
-        filename = gdown.download(url=self.drive_paths[language], output=f"{language}.csv", quiet=False)
+        print("Downloading patched file...")
+        filename = f"{language}.csv"
+        wget.download(f"{self.download_url}/{filename}")
+        print()
         print(f"Done. ({filename})")
         
         target = os.path.join(os.getcwd(), filename)
-        new = os.path.join(self.localization_path, f"{language}.csv")
+        new = os.path.join(self.localization_path, filename)
 
         print(f"Moving downloaded file to {new}...")
         shutil.move(target, new)
