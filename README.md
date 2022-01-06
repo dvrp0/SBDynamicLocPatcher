@@ -4,14 +4,13 @@
 Localization Patcher for Window version of [Stormbound](https://paladinstudios.com/stormbound/)
 
 ## Why
-First, Stormbound's translation is pretty poor. For example, Korean description of Counselor Ahmi still says **bordering**, not surrounding. On the official Discord server, there's `#translation-suggestions` channel that users correct such mistranslations. However, these suggestions are rarely applied to the game, although it's ruining players' gameplay experience.
+First, Stormbound's translation is pretty poor. For example, Korean description of Counselor Ahmi still says **bordering**, not surrounding. On the official Discord server, there's `#translation-suggestions` channel that users correct such mistranslations. However, these suggestions are rarely applied to the game, although they are literally ruining players' gameplay experience.
 
 ![](https://media.discordapp.net/attachments/815214884920098817/928644018294894623/unknown.png)
 
 Second, Sheepyard's card description is too wordy. Common cards made by Sheepyard have longer descriptions than legendaries. Of course, another reason for this wordiness is that Sheepyard's card designs are too different from the direction this game pursues. [Random additions of new keywords](https://discord.com/channels/293674725069029377/447484918801629195/899744998310948884) and [too many drawbacks or incidental effects](https://discord.com/channels/293674725069029377/447676050726453248/915670519376924724) are good examples.
 
-As you can see above, Sheepyard's text is longer than Paladin's. Even considering that they are simple averages, Sheepyard's lore is more than twice as long as Paladin's. When the patch is applied, the average length of lore becomes almost the same as Paladin's.  
-And the average length of the card description is reduced by three characters. This difference looks very small, but I couldn't reduce more because the design of the cards was complicated. I also focused not only on shortening the descriptions, but on fixing the problems below.
+As you can see above, Sheepyard's text is longer than Paladin's. Even considering that they are simple averages, Sheepyard's lore is more than twice as long as Paladin's. When the patch is applied, the average length of lore becomes almost the same as Paladin's. And the average length of the card description is reduced by three characters. This difference looks very small, but I couldn't reduce more because the design of the cards was complicated. I also focused not only on shortening the descriptions, but on fixing the problems below.
 
 ## How It Works
 Window version of Stormbound caches localization file on `AppData/LocalLow` folder and uses this file when launches. So modifications made to this file will be applied to the game.
@@ -54,7 +53,7 @@ Window version of Stormbound caches localization file on `AppData/LocalLow` fold
  - Many mistranslations
 
 ## Miscellaneous
-You can check all changelist [here](https://www.diffchecker.com/9mKNVkXj). You can also download patched English file in [`/localization`](https://github.com/dvrp0/SBLocPatcher/tree/main/localizations). Please note that it is encrypted.
+You can check all changelist [here](https://www.diffchecker.com/e0aclYKM). You can also download patched English file in [`/localization`](https://github.com/dvrp0/SBLocPatcher/tree/main/localizations). Please note that it is encrypted.
 
 Patched localization files are all made by me. Since I'm not an English-speaking person, there might be awkward expressions. If you find such things or have a better idea to improve descriptions, please leave [an issue.](https://github.com/dvrp0/SBLocPatcher/issues) Contributions are highly appreciated 😀
 
