@@ -40,6 +40,6 @@ else:
     patcher.revert(target)
 
 print()
-print("Done!")
+print("All done!")
 print("Press any key to continue...")
 input()
