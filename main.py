@@ -2,7 +2,7 @@ from patcher import Patcher
 
 patcher = Patcher()
 
-print("Welcome to Stormbound Dynamic Localization Patcher!")
+print("Welcome to Stormbound Localization Patcher!")
 print()
 print("What do you want to do?")
 print("1. patch  2. revert")
