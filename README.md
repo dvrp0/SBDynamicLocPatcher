@@ -6,11 +6,11 @@ Localization patcher for Windows version of [Stormbound](https://paladinstudios.
 ## Why
 First, Stormbound's translation is pretty poor from the very beginning of the game. For example, Korean name of Stoic Protectors was changed to `덱 준비 완료(All Deck Fits)` almost a year ago, and it has not been corrected yet. Even more shockingly, the descriptions of some early quests(`폭풍 탐험(Exploring the Storm)`, `압도적인 힘(Power Overwhelming)`) were changed to totally wrong ones, causing new players to have trouble completing them. There's `#translation-suggestions` channel on the official Discord server that users correct such mistranslations. However, these suggestions are rarely applied to the game recently, although they are literally ruining players' gameplay experience.
 
-![](https://media.discordapp.net/attachments/815214884920098817/928644018294894623/unknown.png)
+Second, Sheepyard's card descriptions are wordy and weird. As you can see below, wording and formatting is too different from Paladin's descriptions. The main reason for this problem may be that Sheepyard's main language is not English. But I think it's also because the card designs have become more complicated than necessary by [random additions of new keywords](https://discord.com/channels/293674725069029377/447484918801629195/899744998310948884) and [too many drawbacks or incidental effects](https://discord.com/channels/293674725069029377/447676050726453248/915670519376924724).
 
-Second, Sheepyard's card description is too wordy. Common cards made by Sheepyard have longer descriptions than existing legendaries. Of course, another reason for this wordiness is that Sheepyard's card designs are too different from the direction this game pursues. [Random additions of new keywords](https://discord.com/channels/293674725069029377/447484918801629195/899744998310948884) and [too many drawbacks or incidental effects](https://discord.com/channels/293674725069029377/447676050726453248/915670519376924724) are good examples.
+![](https://media.discordapp.net/attachments/815214884920098817/938627361233055744/unknown.png)
 
-As you can see above, Sheepyard's text is longer than Paladin's. Even considering that these values are simple averages, Sheepyard's lore is more than twice as long as Paladin's. When the patch is applied, the average length of lore becomes almost the same as Paladin's. And the average length of the card description is reduced by three characters. This difference looks very small, but I couldn't reduce it more because the design of the cards was complicated. I also focused not only on shortening the descriptions but on fixing the problems below.
+Loading screen lores also show the wordiness. Sheepyard's lore is more than twice as long as that of Paladin's. When this patch is applied, the average length of lore becomes almost the same as Paladin's.
 
 ## Problems
 ### English
