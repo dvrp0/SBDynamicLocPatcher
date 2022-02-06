@@ -22,9 +22,9 @@ Loading screen lores also show the wordiness. Sheepyard's lore is more than twic
 ## Problems
 ### English
  - Too long sentences
-   - `...card in your hand, **then** destroy the weakest confused unit`
-   - `...non-legendary unit on the side, **then** deal the same damage to the first enemy in front`
-   - Splitting sentences like `...card in your hand. Destroy the weakest confused unit` feels more natural.
+   - `...card in your hand, then destroy the weakest confused unit`
+   - `...non-legendary unit on the side, then deal the same damage to the first enemy in front`
+   - Sheepyard really likes `then`. Splitting sentences like `...card in your hand. Destroy the weakest confused unit` feels more natural.
    - Temples' lores are reallllllllllllly long to be in loading screen.
  - Inconsistence text formatting
    - ![](https://cdn.discordapp.com/attachments/815214884920098817/927613588410105936/unknown.png)  
@@ -53,8 +53,11 @@ Loading screen lores also show the wordiness. Sheepyard's lore is more than twic
    - `...on the side` wording should be clarified like `...on a tile to the side`. Many people are confusing the meaning the word `side`.
  - Wordy expressions
    - `...split its strength equally into a unit` can be simplified to `...split this`.
+   - `on the board` wording is unnecessary.
+   - Orgone Leechers' description could be a way more improved like `...lose 3 mana and freeze an enemy unit on the tile in front. Lower the loss by...`.
  - etc.
    - I changed Temple of Focus' description to `...deconfuse all friendly units in front and command them forward`. I know this change is controversial, but I did it for the clarity of the kingdom's concept. `Give additional move` works exactly the same way as `command forward`, which is the identity of Swarm of the East. I don't understand why Sheepyard made it like that while harming consistency and clarity. I guess it's because the temples are ancient structures, but we don't know anything about ancients. I doubt that ancients were more valuable than the definite concept and consistency of the kingdom.
+   - Also removed Headless Hotheads' description. Its movement symbol already shows that it has fixed movement.
 
 ### Korean
  - Many mistranslations
@@ -68,7 +71,7 @@ Windows version of Stormbound caches localization file on `AppData/LocalLow` fol
  2. Extract it and run `SBLocPatcher.exe`.
 
 ## Miscellaneous
-You can check full changelist [here](https://www.diffchecker.com/S44C37cG). You can also download patched English file in [`/localization`](https://github.com/dvrp0/SBLocPatcher/tree/main/localizations). Please note that it is encrypted.
+You can check full changelist [here](https://www.diffchecker.com/oy1Qj5a6). You can also download patched English file in [`/localization`](https://github.com/dvrp0/SBLocPatcher/tree/main/localizations). Please note that it is encrypted.
 
 Patched localization files are all made by me. Since I'm not an English-speaking person, there might be awkward expressions. If you find such things or have a better idea to improve descriptions, please leave [an issue.](https://github.com/dvrp0/SBLocPatcher/issues) Contributions are highly appreciated 😀
 
