@@ -5,11 +5,9 @@ class Patcher:
         path = os.getenv("APPDATA")
 
         self.supported_languages = ["english", "korean"]
-        self.drive_paths = {"english": "https://drive.google.com/uc?id=14IcG_UKWgDxoHYFNfxxE0kAHanikdNVz&export=download",
-                            "korean": "https://drive.google.com/uc?id=1NKzHi1hvmnXkX1oyucEroDU3G5eaqQMK&export=download"}
         self.localization_path = os.path.join(path[:-7], "LocalLow", "Paladin Studios", "Stormbound", "localization")
         self.download_url = "http://raw.githubusercontent.com/dvrp0/SBLocPatcher/main/localizations/"
-        
+
     def download(self, language):
         print("Downloading patched file...")
         filename = f"{language}.csv"
