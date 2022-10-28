@@ -3654,3 +3654,73 @@ TIMER-RESET-SECOND,"{0} 초"
 TIMER-SHORT-SECOND,"{0}초"
 TIMER-REFRESH-SECOND,"{0}초 뒤에 새로 고침"
 PRODUCT-MONTHLY-PREMIUM-DAILY-REWARDS-T5,"프리미엄 패스"
+B204-NAME,"저주받은 묘지"
+B204-TEXT-LEVEL-1,"내 턴 시작 시, 양쪽 타일에 *{strength} 체력* 언데드를 *소환*합니다"
+B204-TEXT-LEVEL-2,"내 턴 시작 시, 양쪽 타일에 *{strength} 체력* 언데드를 *소환*합니다"
+B204-TEXT-LEVEL-3,"내 턴 시작 시, 양쪽 타일에 *{strength} 체력* 언데드를 *소환*합니다"
+B204-TEXT-LEVEL-4,"내 턴 시작 시, 양쪽 타일에 *{strength} 체력* 언데드를 *소환*합니다"
+B204-TEXT-LEVEL-5,"내 턴 시작 시, 양쪽 타일에 *{strength} 체력* 언데드를 *소환*합니다"
+U319-NAME,"전선 기술자"
+U319-TEXT-LEVEL-1,"카드 사용 시, *주변의* 아군 건물 하나마다 *{strength} 체력*을 *획득*합니다"
+U319-TEXT-LEVEL-2,"카드 사용 시, *주변의* 아군 건물 하나마다 *{strength} 체력*을 *획득*합니다"
+U319-TEXT-LEVEL-3,"카드 사용 시, *주변의* 아군 건물 하나마다 *{strength} 체력*을 *획득*합니다"
+U319-TEXT-LEVEL-4,"카드 사용 시, *주변의* 아군 건물 하나마다 *{strength} 체력*을 *획득*합니다"
+U319-TEXT-LEVEL-5,"카드 사용 시, *주변의* 아군 건물 하나마다 *{strength} 체력*을 *획득*합니다"
+TD03-NAME,"으스스한 호박"
+TD03-TEXT-LEVEL-1,"내 턴 시작 시, 아군 으스스한 호박이 3개 이상이라면, 모두 *파괴*하고 적 기지에 파괴된 호박 하나마다 *{damage} 데미지*를 *입힙니다*"
+TD03-TEXT-LEVEL-2,"내 턴 시작 시, 아군 으스스한 호박이 3개 이상이라면, 모두 *파괴*하고 적 기지에 파괴된 호박 하나마다 *{damage} 데미지*를 *입힙니다*"
+TD03-TEXT-LEVEL-3,"내 턴 시작 시, 아군 으스스한 호박이 3개 이상이라면, 모두 *파괴*하고 적 기지에 파괴된 호박 하나마다 *{damage} 데미지*를 *입힙니다*"
+TD03-TEXT-LEVEL-4,"내 턴 시작 시, 아군 으스스한 호박이 3개 이상이라면, 모두 *파괴*하고 적 기지에 파괴된 호박 하나마다 *{damage} 데미지*를 *입힙니다*"
+TD03-TEXT-LEVEL-5,"내 턴 시작 시, 아군 으스스한 호박이 3개 이상이라면, 모두 *파괴*하고 적 기지에 파괴된 호박 하나마다 *{damage} 데미지*를 *입힙니다*"
+RESOURCEREWARD-AVATAR,"아바타"
+RESOURCEREWARD-AVATARS,"아바타"
+SPOOKY-PUMPKIN-STR-3-NAME,"으스스한 호박"
+SPOOKY-PUMPKIN-STR-3-FILTER,"유닛 사망 시 왼쪽 혹은 오른쪽에"
+SPOOKY-PUMPKIN-STR-3-BONUS,"으스스한 호박 소환"
+SPOOKY-PUMPKIN-STR-5-NAME,"으스스한 호박"
+SPOOKY-PUMPKIN-STR-5-FILTER,"유닛 사망 시 왼쪽 혹은 오른쪽에"
+SPOOKY-PUMPKIN-STR-5-BONUS,"으스스한 호박 소환"
+SPOOKY-PUMPKIN-STR-7-NAME,"으스스한 호박"
+SPOOKY-PUMPKIN-STR-7-FILTER,"유닛 사망 시 왼쪽 혹은 오른쪽에"
+SPOOKY-PUMPKIN-STR-7-BONUS,"으스스한 호박 소환"
+PRODUCT-HALLOWEEN-PACK-2022-1,"마법 가마솥 번들"
+PRODUCT-DESCRIPTION-HALLOWEEN-PACK-2022-1,"새로운 아바타!
+마법의 책 고서 3개
+엘더의 책 고서 3개
+클래식 고서 6개
++{soft} 코인
++{hard} 루비"
+PRODUCT-HALLOWEEN-PACK-2022-2,"과자 하나 주면 안 잡아먹지 번들"
+PRODUCT-DESCRIPTION-HALLOWEEN-PACK-2022-2,"새로운 아바타!
+신화의 고서 6개
+영웅의 고서 6개
+클래식 고서 6개"
+PRODUCT-HALLOWEEN-PACK-2022-3,"13가지 무서운 이야기 번들"
+PRODUCT-DESCRIPTION-HALLOWEEN-PACK-2022-3,"새로운 아바타!
+전설의 책 13개
++{soft} 코인
++{hard} 루비
++{wildcard} 합성석"
+BTN-SPOOKY-REWARD,"으스스한 보상"
+TUTORIAL-CTA-BTN-BATTLE,"전투"
+TUTORIAL-CTA-BTN-START,"시작"
+TUTORIAL-CTA-BTN-PLAY,"플레이"
+TUTORIAL-CTA-BTN-CUSTOM,"Custom (placeholder)"
+PRODUCT-RAINING-CATS-2022,"쏟아지는 고양이"
+PRODUCT-EDRIKS-ARMY-2022,"에드릭의 군대"
+PRODUCT-EMBLEM-OF-HEROISM-2022,"영웅의 증표"
+PRODUCT-THE-GREATEST-TREASURE-2022-2,"최고의 보물"
+PRODUCT-DESCRIPTION-RAINING-CATS-2022,"새로운 아바타!
+6가지 레어 및 에픽 펠린 카드 각 3장씩 + 클래식 고서 3개"
+PRODUCT-DESCRIPTION-EDRIKS-ARMY-2022,"새로운 아바타!
+에드릭 2장, 가장 많이 플레이된 카드 18장"
+PRODUCT-DESCRIPTION-EMBLEM-OF-HEROISM-2022,"새로운 아바타!
+영웅의 고서 35개"
+PRODUCT-DESCRIPTION-THE-GREATEST-TREASURE-2022-2,"새로운 아바타!
+각 희귀도별 카드 30장씩 + 1000 루비+ 5000 코인"
+U417-NAME,""
+U417-TEXT-LEVEL-1,""
+U417-TEXT-LEVEL-2,""
+U417-TEXT-LEVEL-3,""
+U417-TEXT-LEVEL-4,""
+U417-TEXT-LEVEL-5,""
